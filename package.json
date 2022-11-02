@@ -1,11 +1,11 @@
 {
   "name": "9-npm-inicjalizacja-i-instalacja-zaleznosci",
   "version": "1.0.0",
+  "description": "",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "AgnieszkaDraganczyk",
-  "license": "ISC",
-  "description": ""
+  "author": "Agnieszka Draganczyk",
+  "license": "ISC"
 }
